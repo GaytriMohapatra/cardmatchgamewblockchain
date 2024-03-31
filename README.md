@@ -31,7 +31,7 @@ The blockchain-based card match game is an innovative take on the classic memory
 * Install Truffle framework : `npm install --g truffle@5.1.39`
 * Download Ganache.
 * Install Metamask chrome extension.
-* Clone the project repository: git clone 
+* Clone the project repository: `git clone https://github.com/GaytriMohapatra/cardmatchgamewblockchain.git`
 * Set up Node package manager (npm): `npm nstall`
 * Start the Server locally : `npm run start`
   
