@@ -2,7 +2,7 @@
 
 ## Project Overview
 The blockchain-based card match game is an innovative take on the classic memory game where players are rewarded with blockchain-based tokens for finding matching pairs. Each tile in the game is represented by a unique blockchain token, making it a collectible asset that players can keep forever in their digital wallets. The game leverages blockchain technology to ensure the authenticity, security, and transferability of these tokens, allowing players to trade or sell them on a marketplace or keep them as valuable collectibles.
-## Tech Stack Used:
+## Tech Stack Used
 * Non-fungible tokens (NFTs): Tokens representing unique digital assets, used to represent each tile in the card match game.
 * React: A JavaScript library for building user interfaces, React is used to create the interactive and dynamic components of the game's frontend.
 * Node.js: JavaScript runtime for building the backend server and handling server-side logic.
@@ -20,10 +20,10 @@ The blockchain-based card match game is an innovative take on the classic memory
 * Visual Studio Code with the necessary extensions.
 * Git for version control.
   
-  ### Basic Infrastructure Setup
+### Basic Infrastructure Setup
 * React: Install Node.js 9.10.0 and Visual Studio Code.
   
-## Structure & Architecture of the Project:
+## Structure & Architecture of the Project
 ![new image](https://github.com/ShaikArshidBanu/Card_Match_Game/assets/112767165/43a898ec-7661-4f73-a8df-e009d6c92da6)
 
 ## Running the Project
@@ -35,13 +35,14 @@ The blockchain-based card match game is an innovative take on the classic memory
 * Set up Node package manager (npm): `npm nstall`
 * Start the Server locally : `npm run start`
   
-## Blockchain Integration:
+## Blockchain Integration
 * Each tile in the game corresponds to a unique blockchain-based token.
 * The tokens are created and managed.
  on a blockchain network, ensuring their immutability and security.
 * Once tokens are earned in the game, they become permanent assets stored on the blockchain.
 * Players can view their token collection, track their value, and manage them within the game interface.
-  ## Token Ownership and Transferability:
+  
+## Token Ownership and Transferability:
 * Players have full ownership of the tokens they earn in the game.
 * Tokens can be transferred outside of the game to other wallets or exchanges.
 * Players can sell their tokens on a dedicated marketplace, trade them with other players, or simply keep them as valuable digital collectibles.
